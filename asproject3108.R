@@ -1,6 +1,6 @@
 #load csv
 library(readr)
-data <- read_csv("data.csv")
+data <- read_csv("data.csv")#add your Dataset(csv.file)
 View(data)
 
 #Check the structure of the dataset
